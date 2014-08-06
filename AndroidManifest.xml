@@ -31,13 +31,6 @@
                 android:resource="@xml/hexclockwallpaper" >
             </meta-data>
         </service>
-
-        <activity
-            android:name=".Preferences"
-            android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@android:style/Theme.Holo.Light" >
-        </activity>
     </application>
 
 </manifest>
