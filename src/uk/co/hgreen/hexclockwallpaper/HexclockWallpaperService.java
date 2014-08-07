@@ -88,7 +88,7 @@ public class HexclockWallpaperService extends WallpaperService {
 			int xPos = (canvas.getWidth() / 2);
 			int yPos = (int) ((canvas.getHeight() / 2) - ((paint.descent() + paint.ascent()) / 2)) ; 
 			time.setToNow();
-			String current = time.format("%k%M%S");
+			String current = time.format("%H%M%S");
 			int hex = Integer.parseInt(current, 16);
 			int r = (hex >> 16) & 0xFF;
 			int g = (hex >> 8) & 0xFF;
