@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hexclock Wallpaper</string>
+    <string name="label">Hexclock</string>
+    <string name="wallpaper_description">Hexadecimal Clock Wallpaper</string>
+</resources>
