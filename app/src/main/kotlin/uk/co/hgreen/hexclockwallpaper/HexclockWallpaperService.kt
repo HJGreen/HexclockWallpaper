@@ -1,4 +1,4 @@
-package hgreen.co.uk.hexclockwallpaper
+package uk.co.hgreen.hexclockwallpaper
 
 import android.graphics.Canvas
 import android.graphics.Color
